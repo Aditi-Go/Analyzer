@@ -36,7 +36,7 @@ A smart tool that analyzes startup pitch decks to provide evaluations, summaries
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Aditi-Go/Analyzer.git]
-   cd ai-pitch-deck-analyzer
+   cd Analyzer
    ```
 
 2. Install dependencies:
