@@ -37,8 +37,8 @@ A smart tool that connects startup founders with potential investors based on co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/founder-investor-matching.git
-   cd founder-investor-matching
+   git clone [https://github.com/Aditi-Go/Analyzer.git]
+   cd Analyzer
    ```
 
 2. Install dependencies:
