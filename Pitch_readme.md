@@ -2,6 +2,8 @@
 
 A smart tool that analyzes startup pitch decks to provide evaluations, summaries, and insights.
 
+![Pitch Analysis Example](C:\Users\Aditi\OneDrive\Documents\Downloads\assessment\Analyzer\uber_analysis.png)
+
 ## Features
 
 - **Pitch Deck Analysis**: Upload PDFs and get detailed evaluations with scores
@@ -90,4 +92,3 @@ We evaluate pitch decks across six dimensions:
 4. **Business Model (15%)**: Revenue strategy and go-to-market approach
 5. **Financials (20%)**: Projections, metrics, and investment requirements
 6. **Team (15%)**: Experience, expertise, and execution ability
-
