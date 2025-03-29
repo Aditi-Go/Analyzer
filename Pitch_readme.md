@@ -2,7 +2,7 @@
 
 A smart tool that analyzes startup pitch decks to provide evaluations, summaries, and insights.
 
-![Pitch Analysis Example](C:\Users\Aditi\OneDrive\Documents\Downloads\assessment\Analyzer\uber_analysis.png)
+![Pitch Analysis Example](uber_analysis.png)
 
 ## Features
 
